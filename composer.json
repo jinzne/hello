@@ -1,0 +1,12 @@
+{
+  "name": "jinzne/Sdev328/hello",
+  "authors": [
+    {
+      "name": "Giang Nguyen",
+      "email": "nguyen.giang.2@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
