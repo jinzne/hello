@@ -1,0 +1,4 @@
+#.gitignore contains files and
+#folders that should be excluded
+#ignore vendor directory
+vendor/
